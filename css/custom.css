@@ -1,0 +1,9 @@
+html, body	
+{
+	background: url('../img/bg.jpg') fixed no-repeat;
+	background-size: cover;
+}
+
+.banner {
+	margin-top: 30px;
+}
