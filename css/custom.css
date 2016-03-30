@@ -5,8 +5,5 @@ html, body
 }
 
 .banner {
-	margin-top: 1rem;
-}
-.navbar-material .nav-wrapper .brand-logo img {
-    height: 64px;
+	margin-top: 1.5rem;
 }
