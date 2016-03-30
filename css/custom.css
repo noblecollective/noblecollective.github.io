@@ -1,9 +1,3 @@
-html, body	
-{
-	background: url('../img/bg.jpg') fixed no-repeat;
-	background-size: cover;
-}
-
-.banner {
-	margin-top: 1.5rem;
+.parallax-container {
+  height: 350px;
 }
